@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
+    <title>Info Lomba OmahTI</title>
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <script src="js/countday.js"></script>
+</head>
+
+<body class="grey lighten-2" id="top">
+    <div class="container">
+        <div class="section">
+            <h4 id="judul">Info Lomba <span style="background-color: orange; color: white;">OmahTI</span></h4>
+            <h5 id="judul2">click the table for details</h5>
+            <h6 id="judul2" class="hide-on-med-and-up">use laptop for better experience</h6>
+            <ul class="collapsible" data-collapsible="accordion">
+                <!--    HEAD TABEL        -->
+                <li class="hide-on-small-only atas">
+                    <div class="collapsible-header grey">
+                        <div class="row" style="width: 100%;">
+                            <div class="col s12 m4"> lomba</div>
+                            <div class="col s6 m2">deadline </div>
+                            <div class="col s6 m2">remaining day</div>
+                            <div class="col s12 m4"> tag </div>
+                        </div>
+                    </div>
+                </li>
+                <!--  END HEAD TABEL        -->
+                <div id="listlomba"></div>
+            </ul>
+        </div>
+    </div>
+    <!--LIST LOMBA-->
+    <script src="js/data.js"></script>
+    <script>
+        var lomba, text, fLen, i, tgl, link, imag;
+        fLen = lomba.length;
+        text = "<ul class='collapsible' data-collapsible='accordion'>";
+        for (i = 0; i < fLen; i++) {
+            var Today = new Date(tgl[i]);
+            var z1 = DayDiff(Today);
+            var z2 = DayDiff2(Today);
+            text += "<li><div class='collapsible-header' >" + " <div class='row' style='width: 100%;'>" + "<div class='col s12 m4 l4' style='font-weight: 500'>" + lomba[i] + "</div><div class='col s6 hide-on-med-and-up'>deadline :</div>" + "<div class='col s6 m2 l2'>" + tgl[i] + "</div><div class='col s6 hide-on-med-and-up'></div>" + "<div class='col s6 m2 l2'><span class='hmin'>" + z1 + "</span><span class='closed'>" + z2 + "</span></div>" + tag[i] + "</div></div>" + "<div class='collapsible-body'><h6>web : <a href='" + link[i] + "'>" + link[i] + "</a></h6><br> <img class='gambar materialboxed' src='img/" + imag[i] + "'> </div>" + "</li>";
+        }
+        text += "</ul>";
+        document.getElementById("listlomba").innerHTML = text;
+    </script>
+    <!--  END LIST LOMBA -->
+    <!--  TOMBOL NAIK  -->
+    <div class="fixed-action-btn hide-on-small-only">
+        <a class="btn-floating btn-large orange" href="#top"> <i class="large material-icons">arrow_upward</i> </a>
+    </div>
+    <!--  END TOMBOL NAIK  -->
+    <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+</body>
+
+</html>
