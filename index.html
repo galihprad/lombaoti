@@ -45,7 +45,7 @@
             var Today = new Date(tgl[i]);
             var z1 = DayDiff(Today);
             var z2 = DayDiff2(Today);
-            text += "<li><div class='collapsible-header' >" + " <div class='row' style='width: 100%;'>" + "<div class='col s12 m4 l4' style='font-weight: 500'>" + lomba[i] + "</div><div class='col s6 hide-on-med-and-up'>deadline :</div>" + "<div class='col s6 m2 l2'>" + tgl[i] + "</div><div class='col s6 hide-on-med-and-up'></div>" + "<div class='col s6 m2 l2'><span class='hmin'>" + z1 + "</span><span class='closed'>" + z2 + "</span></div>" + tag[i] + "</div></div>" + "<div class='collapsible-body'><h6>web : <a href='" + link[i] + "'>" + link[i] + "</a></h6><br> <img class='gambar materialboxed' src='img/" + imag[i] + "'> </div>" + "</li>";
+            text += "<li><div class='collapsible-header' >" + " <div class='row' style='width: 100%;'>" + "<div class='col s12 m4 l4' style='font-weight: 500'>" + lomba[i] + "</div><div class='col s6 hide-on-med-and-up'>deadline :</div>" + "<div class='col s6 m2 l2'>" + tgl[i] + "</div><div class='col s6 hide-on-med-and-up'></div>" + "<div class='col s6 m2 l2'><span class='hmin'>" + z1 + "</span><span class='closed'>" + z2 + "</span></div>" + tag[i] + "</div></div>" + "<div class='collapsible-body'><h6>web : <a target='_blank' href='" + link[i] + "'>" + link[i] + "</a></h6><br> <img class='gambar materialboxed' src='img/" + imag[i] + "'> </div>" + "</li>";
         }
         text += "</ul>";
         document.getElementById("listlomba").innerHTML = text;
