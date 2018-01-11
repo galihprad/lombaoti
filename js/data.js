@@ -40,6 +40,6 @@ imag = ["telkom.jpeg",
         "kbi.jpg",
         "aaji.jpg",
        "fitcom.jpg",
-       "techcomfest.jpg",
+       "techcomfest.JPG",
        "itfest.jpg"];
 
