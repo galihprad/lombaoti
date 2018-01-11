@@ -38,8 +38,8 @@ link = ["https://expose.uzone.id/hackathon",
 imag = ["telkom.jpeg",
         "mage.jpg",
         "kbi.jpg",
-        "aaji.jpg",
+        "aaji.JPG",
        "fitcom.jpg",
-       "techcomfest.JPG",
+       "techcomfest.jpg",
        "itfest.jpg"];
 
