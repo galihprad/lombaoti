@@ -19,7 +19,7 @@ tgl = ["March, 5, 2018",
        "December, 31, 2017"
     ];
 
-tag = ["<div class='chip brown lighten-4'> business IT case </div><div class='chip teal lighten-4'> apps </div><div class='chip'> e-gov </div><div class='chip lime lighten-4'> UX </div><div class='chip orange lighten-4'> GameDev </div>",
+tag = ["<div class='chip brown lighten-4'> business IT case </div><div class='chip cyan lighten-4'> data mining </div><div class='chip teal lighten-4'> apps </div><div class='chip'> e-gov </div><div class='chip lime lighten-4'> UX </div><div class='chip orange lighten-4'> GameDev </div>",
          "<div class='chip yellow lighten-4'> hackathon </div>",
         "<div class='chip teal lighten-4'> apps </div><div class='chip orange lighten-4'> GameDev </div><div class='chip'> IoT </div>",
         "<div class='chip green lighten-4'> multimedia </div>",
