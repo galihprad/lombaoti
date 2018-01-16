@@ -1,4 +1,4 @@
-lomba = ["<i class='material-icons yellow'>star</i>MICROSOFT IMAGINE CUP",
+lomba = ["<i class='material-icons'>star_border</i>MICROSOFT IMAGINE CUP",
          "DINACOM 2018",
          "FIND IT UGM",
          "TELKOM HACKATHON 2018", 
