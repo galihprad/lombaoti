@@ -37,7 +37,7 @@ tag = ["<div class='chip pink lighten-4'> web </div><div class='chip green light
       "<div class='chip teal lighten-4'> apps </div>",
       "<div class='chip teal lighten-4'> apps </div><div class='chip brown lighten-4'> business plan </div><div class='chip purple lighten-4'> CP </div><div class='chip orange lighten-4'> GameDev </div>"];
 
-link = ["bit.ly/pendaftaranlomba2018",
+link = ["https://bit.ly/pendaftaranlomba2018",
          "https://imagine.microsoft.com/en-us/Country/Details/ID",
          "http://dinacom.dinus.ac.id/",
          "http://finditugm.com/",
