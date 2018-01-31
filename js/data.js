@@ -1,4 +1,5 @@
-lomba = ["LOMBA DI UNISSULA",
+lomba = ["GUBUFEST",
+         "LOMBA DI UNISSULA",
          "MICROSOFT IMAGINE CUP",
          "DINACOM 2018",
          "FIND IT UGM",
@@ -12,7 +13,8 @@ lomba = ["LOMBA DI UNISSULA",
 
 
 
-tgl = ["February, 17, 2018",
+tgl = ["February, 19, 2018",
+         "February, 17, 2018",
          "February, 14, 2018",
          "February, 10, 2018",
          "March, 5, 2018",
@@ -25,7 +27,8 @@ tgl = ["February, 17, 2018",
        "December, 31, 2017"
     ];
 
-tag = ["<div class='chip pink lighten-4'> web </div><div class='chip green lighten-4'> multimedia </div>",
+tag = ["<div class='chip orange lighten-4'> GameDev </div>",
+         "<div class='chip pink lighten-4'> web </div><div class='chip green lighten-4'> multimedia </div>",
          "<div class='chip teal lighten-4'> apps </div>",
          "<div class='chip teal lighten-4'> apps </div><div class='chip pink lighten-4'> web </div>",
          "<div class='chip brown lighten-4'> business IT case </div><div class='chip cyan lighten-4'> data mining </div><div class='chip teal lighten-4'> apps </div><div class='chip'> e-gov </div><div class='chip lime lighten-4'> UX </div><div class='chip orange lighten-4'> GameDev </div>",
@@ -37,7 +40,8 @@ tag = ["<div class='chip pink lighten-4'> web </div><div class='chip green light
       "<div class='chip teal lighten-4'> apps </div>",
       "<div class='chip teal lighten-4'> apps </div><div class='chip brown lighten-4'> business plan </div><div class='chip purple lighten-4'> CP </div><div class='chip orange lighten-4'> GameDev </div>"];
 
-link = ["https://bit.ly/pendaftaranlomba2018",
+link = ["http://gametech.pens.ac.id/gubu/",
+         "https://bit.ly/pendaftaranlomba2018",
          "https://imagine.microsoft.com/en-us/Country/Details/ID",
          "http://dinacom.dinus.ac.id/",
          "http://finditugm.com/",
@@ -51,7 +55,8 @@ link = ["https://bit.ly/pendaftaranlomba2018",
 
 
 
-imag = ["unissula.jpg",
+imag = ["gubu.jpg",
+         "unissula.jpg",
          "imagine.jpg",
          "dinacom.jpg",
          "findit.jpg",
