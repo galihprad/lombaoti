@@ -77,9 +77,9 @@ imag = ["unud.jpg",
          "findit.jpg",
          "telkom.jpeg",
         "mage.jpg",
-        "unud.jpg",
-        "unud.jpg",
-       "unud.jpg",
-       "unud.jpg",
-       "unud.jpg"];
+        "",
+        "",
+       "",
+       "",
+       ""];
 
