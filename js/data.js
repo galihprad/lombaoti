@@ -15,7 +15,7 @@ lomba = ["SCREEN UNTAN",
 
 
 
-tgl = ["February, 18, 2018",
+tgl = ["February, 28, 2018",
          "February, 26, 2018",
          "February, 19, 2018",
          "February, 17, 2018",
