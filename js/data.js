@@ -1,4 +1,5 @@
-lomba = ["CTF TNI AD",
+lomba = ["SCREEN UNTAN",
+         "CTF TNI AD",
          "GUBUFEST",
          "LOMBA DI UNISSULA",
          "MICROSOFT IMAGINE CUP",
@@ -14,7 +15,8 @@ lomba = ["CTF TNI AD",
 
 
 
-tgl = ["February, 26, 2018",
+tgl = ["February, 18, 2018",
+         "February, 26, 2018",
          "February, 19, 2018",
          "February, 17, 2018",
          "February, 14, 2018",
@@ -29,7 +31,8 @@ tgl = ["February, 26, 2018",
        "December, 31, 2017"
     ];
 
-tag = ["<div class='chip blue lighten-4'> CTF </div>",
+tag = ["<div class='chip pink lighten-4'> web </div><div class='chip green lighten-4'> multimedia </div>",
+         "<div class='chip blue lighten-4'> CTF </div>",
          "<div class='chip orange lighten-4'> GameDev </div>",
          "<div class='chip pink lighten-4'> web </div><div class='chip green lighten-4'> multimedia </div>",
          "<div class='chip teal lighten-4'> apps </div>",
@@ -43,7 +46,8 @@ tag = ["<div class='chip blue lighten-4'> CTF </div>",
       "<div class='chip teal lighten-4'> apps </div>",
       "<div class='chip teal lighten-4'> apps </div><div class='chip brown lighten-4'> business plan </div><div class='chip purple lighten-4'> CP </div><div class='chip orange lighten-4'> GameDev </div>"];
 
-link = ["https://ctf.tikad.or.id/",
+link = ["http://screen.himaster.untan.ac.id/",
+         "https://ctf.tikad.or.id/",
          "http://gametech.pens.ac.id/gubu/",
          "https://bit.ly/pendaftaranlomba2018",
          "https://imagine.microsoft.com/en-us/Country/Details/ID",
@@ -59,7 +63,8 @@ link = ["https://ctf.tikad.or.id/",
 
 
 
-imag = ["tni.jpg",
+imag = ["untan.jpg",
+         "tni.jpg",
          "gubu.jpg",
          "unissula.jpg",
          "imagine.jpg",
