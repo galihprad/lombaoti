@@ -16,7 +16,7 @@ lomba = ["INVENTION UNUD",
 
 
 
-tgl = ["March, 13,2018",
+tgl = ["March, 13, 2018",
          "February, 28, 2018",
          "February, 26, 2018",
          "February, 19, 2018",
