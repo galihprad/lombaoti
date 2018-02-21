@@ -67,7 +67,7 @@ link = ["http://invention.cs.unud.ac.id/",
 
 
 
-imag = ["unud.jpg"
+imag = ["unud.jpg",
          "untan.jpg",
          "tni.jpg",
          "gubu.jpg",
