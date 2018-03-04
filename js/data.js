@@ -1,4 +1,4 @@
-lomba = ["VOCOMFEST WEB DESIGN,
+lomba = ["VOCOMFEST WEB DESIGN",
          "VOCOMFEST MOBILE APPS",
          "UNITY UNY",
          "INVENTION UNUD",
