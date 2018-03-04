@@ -1,4 +1,5 @@
-lomba = ["INVENTION UNUD",
+lomba = ["UNITY UNY",
+         "INVENTION UNUD",
          "SCREEN UNTAN",
          "CTF TNI AD",
          "GUBUFEST",
@@ -16,7 +17,8 @@ lomba = ["INVENTION UNUD",
 
 
 
-tgl = ["March, 13, 2018",
+tgl = ["March, 31, 2018",
+         "March, 13, 2018",
          "February, 28, 2018",
          "February, 26, 2018",
          "February, 19, 2018",
@@ -33,7 +35,8 @@ tgl = ["March, 13, 2018",
        "December, 31, 2017"
     ];
 
-tag = ["<div class='chip pink lighten-4'> web </div>",
+tag = ["<div class='chip green lighten-4'> multimedia </div><div class='chip teal lighten-4'> apps </div><div class='chip'> network </div>",
+         "<div class='chip pink lighten-4'> web </div>",
          "<div class='chip pink lighten-4'> web </div><div class='chip green lighten-4'> multimedia </div>",
          "<div class='chip blue lighten-4'> CTF </div>",
          "<div class='chip orange lighten-4'> GameDev </div>",
@@ -49,7 +52,8 @@ tag = ["<div class='chip pink lighten-4'> web </div>",
       "<div class='chip teal lighten-4'> apps </div>",
       "<div class='chip teal lighten-4'> apps </div><div class='chip brown lighten-4'> business plan </div><div class='chip purple lighten-4'> CP </div><div class='chip orange lighten-4'> GameDev </div>"];
 
-link = ["http://invention.cs.unud.ac.id/",
+link = ["https://unity.restek-uny.org/",
+         "http://invention.cs.unud.ac.id/",
          "http://screen.himaster.untan.ac.id/",
          "https://ctf.tikad.or.id/",
          "http://gametech.pens.ac.id/gubu/",
@@ -67,16 +71,17 @@ link = ["http://invention.cs.unud.ac.id/",
 
 
 
-imag = ["unud.jpg",
+imag = ["uny.jpg",
+         "unud.jpg",
          "untan.jpg",
          "tni.jpg",
          "gubu.jpg",
          "unissula.jpg",
          "imagine.jpg",
-         "dinacom.jpg",
+         "",
          "findit.jpg",
-         "telkom.jpeg",
-        "mage.jpg",
+         "",
+        "",
         "",
         "",
        "",
