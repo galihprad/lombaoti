@@ -21,7 +21,7 @@ lomba = ["VOCOMFEST WEB DESIGN",
 
 tgl = ["March, 26, 2018",
          "March, 23, 2018",
-         "March, 31, 2018",
+         "April, 10, 2018",
          "March, 13, 2018",
          "February, 28, 2018",
          "February, 26, 2018",
