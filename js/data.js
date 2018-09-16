@@ -48,7 +48,7 @@ tgl = ["October, 19, 2018",
     ];
 
 tag = ["<div class='chip'> Database programming </div>",
-         "<div class='chip brown lighten-4'> business IT case </div><div class='chip brown lighten-4'> business plan </div><div class='chip orange lighten-4'> GameDev </div><div class='chip blue lighten-4'> CTF </div><div class='chip purple lighten-4'> CP </div><div class='chip teal lighten-4'> apps </div><div class='chip'> IoT </div>",
+         "<div class='chip brown lighten-4'> business IT case </div><div class='chip brown lighten-4'> business plan </div><div class='chip orange lighten-4'> GameDev </div><div class='chip blue lighten-4'> CTF </div><div class='chip purple lighten-4'> CP </div><div class='chip teal lighten-4'> apps </div><div class='chip'> smart device </div>",
          "<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div>",
          "<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div><div class='chip'> IoT </div>",
          "<div class='chip'> hackathon </div>",
