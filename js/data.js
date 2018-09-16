@@ -1,4 +1,7 @@
-lomba = ["MAGE ITS",
+lomba = ["INVOFEST",
+         "HOLOGY UB",
+         "POLINEMIA APPS COMPETITION",
+         "MAGE ITS",
          "PERTAMINA ENERGY HACKATHON",
          "VOCOMFEST MOBILE APPS",
          "UNITY UNY",
@@ -20,7 +23,10 @@ lomba = ["MAGE ITS",
 
 
 
-tgl = ["September, 23, 2018",
+tgl = ["October, 19, 2018",
+         "September, 23, 2018",
+         "September, 30, 2018"
+         "September, 23, 2018",
          "March, 31, 2018",
          "March, 23, 2018",
          "April, 10, 2018",
@@ -41,7 +47,10 @@ tgl = ["September, 23, 2018",
        "December, 31, 2017"
     ];
 
-tag = ["<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div><div class='chip'> IoT </div>",
+tag = ["<div class='chip'> Database programming </div>",
+         "<div class='chip brown lighten-4'> business IT case </div><div class='chip brown lighten-4'> business plan </div><div class='chip orange lighten-4'> GameDev </div><div class='chip blue lighten-4'> CTF </div><div class='chip purple lighten-4'> CP </div><div class='chip teal lighten-4'> apps </div><div class='chip'> IoT </div>",
+         "<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div>",
+         "<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div><div class='chip'> IoT </div>",
          "<div class='chip'> hackathon </div>",
          "<div class='chip teal lighten-4'> apps </div>",
          "<div class='chip green lighten-4'> multimedia </div><div class='chip teal lighten-4'> apps </div><div class='chip'> network </div>",
@@ -61,7 +70,10 @@ tag = ["<div class='chip orange lighten-4'> GameDev </div><div class='chip teal 
       "<div class='chip teal lighten-4'> apps </div>",
       "<div class='chip teal lighten-4'> apps </div><div class='chip brown lighten-4'> business plan </div><div class='chip purple lighten-4'> CP </div><div class='chip orange lighten-4'> GameDev </div>"];
 
-link = ["http://mage.telematics.its.ac.id/",
+link = ["https://www.invofest.com/itcompetition/dpc",
+         "https://hology.ub.ac.id/",
+         "http://pac.polinema.ac.id/",
+         "http://mage.telematics.its.ac.id/",
          "https://hackathon.pertamina.com/",
          "http://www.vocomfest.com/",
          "https://unity.restek-uny.org/",
@@ -83,7 +95,10 @@ link = ["http://mage.telematics.its.ac.id/",
 
 
 
-imag = ["mage2018.jpg",
+imag = ["invofest.jpg",
+         "hology.jpg"
+         "pac.jpg",
+         "mage2018.jpg",
          "",
          "",
          "",
