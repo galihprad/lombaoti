@@ -96,7 +96,7 @@ link = ["https://www.invofest.com/itcompetition/dpc",
 
 
 imag = ["invofest.jpg",
-         "hology.jpg"
+         "hology.jpg",
          "pac.jpg",
          "mage2018.jpg",
          "",
