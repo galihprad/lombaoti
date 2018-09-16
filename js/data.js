@@ -49,11 +49,12 @@ tgl = ["October, 19, 2018",
        "December, 31, 2017"
     ];
 
-tag = ["<div class='chip teal lighten-4'> apps </div><div class='chip green lighten-4'> multimedia </div>",
+tag = [
          "<div class='chip'> Database programming </div>",
          "<div class='chip brown lighten-4'> business IT case </div><div class='chip brown lighten-4'> business plan </div><div class='chip orange lighten-4'> GameDev </div><div class='chip blue lighten-4'> CTF </div><div class='chip purple lighten-4'> CP </div><div class='chip teal lighten-4'> apps </div><div class='chip'> smart device </div>",
          "<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div>",
          "<div class='chip orange lighten-4'> GameDev </div><div class='chip teal lighten-4'> apps </div><div class='chip'> IoT </div>",
+         "<div class='chip teal lighten-4'> apps </div><div class='chip green lighten-4'> multimedia </div>",
          "<div class='chip'> hackathon </div>",
          "<div class='chip teal lighten-4'> apps </div>",
          "<div class='chip green lighten-4'> multimedia </div><div class='chip teal lighten-4'> apps </div><div class='chip'> network </div>",
@@ -73,11 +74,12 @@ tag = ["<div class='chip teal lighten-4'> apps </div><div class='chip green ligh
       "<div class='chip teal lighten-4'> apps </div>",
       "<div class='chip teal lighten-4'> apps </div><div class='chip brown lighten-4'> business plan </div><div class='chip purple lighten-4'> CP </div><div class='chip orange lighten-4'> GameDev </div>"];
 
-link = ["https://www.instagram.com/kominfodiy/",
+link = [
         "https://www.invofest.com/itcompetition/dpc",
          "https://hology.ub.ac.id/",
          "http://pac.polinema.ac.id/",
          "http://mage.telematics.its.ac.id/",
+         "https://www.instagram.com/kominfodiy/",
          "https://hackathon.pertamina.com/",
          "http://www.vocomfest.com/",
          "https://unity.restek-uny.org/",
@@ -99,11 +101,12 @@ link = ["https://www.instagram.com/kominfodiy/",
 
 
 
-imag = ["kominfo.jpg",
+imag = [
          "invofest.jpg",
          "hology.jpg",
          "pac.jpg",
          "mage2018.jpg",
+         "kominfo.jpg",
          "",
          "",
          "",
