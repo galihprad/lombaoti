@@ -25,7 +25,7 @@ lomba = ["INVOFEST",
 
 
 tgl = ["October, 19, 2018",
-         "September, 23, 2018",
+         "September, 30, 2018",
          "September, 30, 2018",
          "September, 23, 2018",
          "September, 19, 2018",
